@@ -1,7 +1,7 @@
 ### As-Salamu Alaykum (peace be unto you) 👋
 
-- 🌱 I’m currently learning MERN stack.
-- 💬 Ask me about MERN stack and any Tech related topic.
+- 🌱 I’m currently learning Python and Nextjs.
+- 💬 Ask me about any Tech related topic.
 - 📫 How to reach me: [linktr.ee/swimshahriar](https://linktr.ee/swimshahriar)
 - 😄 Pronouns: he / his
 
