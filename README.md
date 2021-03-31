@@ -1,6 +1,6 @@
 ### As-Salamu Alaykum (peace be unto you) 👋
 
-- 🌱 I’m currently learning Python and Nextjs.
+- 🌱 I’m currently learning React-Native.
 - 💬 Ask me about any Tech related topic.
 - 📫 How to reach me: [linktr.ee/swimshahriar](https://linktr.ee/swimshahriar)
 - 😄 Pronouns: He / His
