@@ -1,12 +1,20 @@
 ### As-Salamu Alaykum (peace be unto you) 👋
 
 - 💬 Ask me about any Tech related topic.
-- 📫 How to reach me: [linktr.ee/swimshahriar](https://linktr.ee/swimshahriar)
+- 📫 How to reach me: [https://swimshahriar.vercel.app](https://swimshahriar.vercel.app)
 - 😄 Pronouns: He / His
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=swimshahriar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
--->
+<br/>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=swimshahriar&show_icons=true&include_all_commits=true&title_color=ffffff&icon_color=4071F4&text_color=daf7dc&bg_color=0000" /> -->
+
+
+![](https://komarev.com/ghpvc/?username=swimshahriar)
+
+
+
+
+
 
 <!-- 
 - 🌱 I’m currently learning React-Native.
