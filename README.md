@@ -9,9 +9,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=swimshahriar&show_icons=true&include_all_commits=true&title_color=ffffff&icon_color=4071F4&text_color=daf7dc&bg_color=0000" /> -->
 
 
-![](https://komarev.com/ghpvc/?username=swimshahriar)
-
-
 
 
 
