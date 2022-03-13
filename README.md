@@ -1,7 +1,7 @@
 ### As-Salamu Alaykum (peace be unto you) 👋
 
 - 💬 Ask me about any Tech related topic.
-- 📫 How to reach me: [https://swimshahriar.vercel.app](https://swimshahriar.vercel.app)
+- 📫 How to reach me: shahriarswim01@gmail.com
 - 😄 Pronouns: He / His
 
 <br/>
