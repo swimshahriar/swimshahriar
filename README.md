@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at [Ollyo](https://ollyo.com/)
 
-- 🌱 I’m currently learning **React Native**
+<!-- 🌱 I’m currently learning **React Native** -->
 
-- 👨‍💻 All of my projects are available at [swimshahriar.vercel.app](https://swimshahriar.vercel.app)
+<!-- 👨‍💻 All of my projects are available at [swimshahriar.vercel.app](https://swimshahriar.vercel.app) -->
 
 - 💬 Ask me about **TypeScript, MERN**
 
