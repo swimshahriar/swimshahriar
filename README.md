@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **TypeScript, MERN**
 
-- 📫 How to reach me [contact](https://swimshahriar.dev/#contact)
+- 📫 How to reach me [contact](https://swimshahriar.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
