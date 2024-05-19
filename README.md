@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swimshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="swimshahriar" /> </p>
 
-- 🔭 I’m currently working at [Ollyo](https://ollyo.com/)
+- 🔭 I’m currently working at [Strativ](https://strativ.se/)
 
 <!-- 🌱 I’m currently learning **React Native** -->
 
